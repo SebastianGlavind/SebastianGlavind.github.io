@@ -18,7 +18,7 @@ PhD courses
 Masters courses
 ======
 * Applied Statistics and Probability Theory (2020, 2019)
-  * Responsibilities: Course Lecturer for 10% of the course. Shared responsibilities in course planning, setting up curriculum, preparing lectures, exercises,
+  * Responsibilities: Course Lecturer for 25% of the course. Shared responsibilities in course planning, setting up curriculum, preparing lectures, exercises,
 delivering lectures, and evaluation of reports and written exams.
 
 * Systems Engineering (2018, 2017)
