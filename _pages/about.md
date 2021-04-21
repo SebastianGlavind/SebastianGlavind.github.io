@@ -14,4 +14,30 @@ I am currently a (pre-)Post Doc researcher in the Risk and Reliability research 
 
 My current research interests evolve around the modeling and analysis of complex systems, as well as the integration of the modeling efforts into the overarching decision context, the modeling aims to serve.   
 
+Research projects
+======
+
+I am and have be actively involved in a wide range of research projects, which appear below with brief descriptions.
+
+Ongoing projects 
+---
+* **Discrepancy modeling**: 
+This project is undertaken jointly with Department of Mechanical Engineering, Technical University of Denmark and has until now mainly focused on discrepancy modeling related to Morrison’s equation based on measurements of forces on a cylindrical body under different turbulence intensities, but we are just getting started and more interesting work will follow.
+
+* **InnoSHM**: 
+This project in undertaken jointly with, among others, industrial partners Total E&P Denmark and Ramboll, and Department of Civil Engineering, Technical University of Denmark. The project focuses on devising a structural health monitoring campaign for offshore structures, where special attention is given to damage feature design, e.g., identification of potential indicators for different failures in offshore structures, feature selection, and data fusion and normalization.
+
+* **VALID**: 
+Coming soon
+* **Corrosion and Fatigue of Offshore Structures**: 
+Coming soon
+
+* **Knowledge transfer project (Energy cluster)**: 
+Coming soon
+
+Completed projects
+---
+Coming soon
+
+
 
