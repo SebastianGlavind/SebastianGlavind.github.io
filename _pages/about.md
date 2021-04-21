@@ -35,7 +35,7 @@ Coming soon
 * **Knowledge transfer project (Energy cluster)**: 
 Coming soon
 
-...
+* ...
 
 Completed projects
 ---
