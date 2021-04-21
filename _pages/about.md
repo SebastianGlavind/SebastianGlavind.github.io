@@ -17,7 +17,7 @@ My current research interests evolve around the modeling and analysis of complex
 Research projects
 ======
 
-I am and have be actively involved in a wide range of research projects, which are listed below with brief descriptions.
+I am and have been actively involved in a wide range of research projects, which are listed below with brief descriptions.
 
 Ongoing projects 
 ---
