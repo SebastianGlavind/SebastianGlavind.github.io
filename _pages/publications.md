@@ -32,7 +32,7 @@ Journal Articles
 {% endfor %}
 </ol>
 
-Refereed Conference/Workshop Papers
+Peer reviewed Conference/Workshop Papers
 ---
 <ol>
 {% for post in site.publications reversed %}
@@ -42,7 +42,7 @@ Refereed Conference/Workshop Papers
 {% endfor %}
 </ol>
 
-Reports
+Theses/Reports
 ---
 <ol>
 {% for post in site.publications reversed %}
