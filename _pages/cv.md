@@ -54,7 +54,7 @@ Awards
 Skills
 ---
 * Languages:
-  Danish: Mother tongue | English: Fluent | Spanish: Basic | German: Basic
+  | Danish: Mother tongue | English: Fluent | Spanish: Basic | German: Basic |
 * Computing: 
   | Python | R | Matlab | Octave | Visual Basic |
 * Text processing: 
