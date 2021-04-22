@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---
 * Doctor of Philosophy (PhD; expected 2021) 
   * Thesis topic: Probabilistic modeling and analysis of complex systems in consistency with the overarching decision context
   * Department of the Built Environment, Aalborg University, Denmark
@@ -22,7 +22,7 @@ Education
   * Aarhus School of Engineering, Aarhus University, Denmark
 
 Work experience
-======
+---
 * Apr 2021 -- Now
 	* Role: (Pre-) Post Doc Researcher
 	* Employer: Aalborg University, Denmark
@@ -49,10 +49,10 @@ Work experience
 	* Employer: Per Aarsleff A/S, Aarhus, Denmark
 
 Awards
-======
+---
 
 Skills
-======
+---
 * Languages:
   | Danish: Mother tongue | English: Fluent | Spanish: Basic | German: Basic |
 * Computing: 
@@ -61,7 +61,7 @@ Skills
   | MS Office | LaTeX |
 
 Publications
-======
+---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
