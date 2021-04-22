@@ -53,13 +53,12 @@ Awards
 
 Skills
 ======
-* Language skills
- * Danish: Mother tongue | English: Fluent | Spanish: Basic | German: Basic
-* Computer skills
- * Computing: 
-   | Python | R | Matlab | Octave | Visual Basic |
- * Text processing: 
-   | MS Office | LaTeX |
+* Languages:
+  | Danish: Mother tongue | English: Fluent | Spanish: Basic | German: Basic |
+* Computing: 
+  | Python | R | Matlab | Octave | Visual Basic |
+* Text processing: 
+  | MS Office | LaTeX |
 
 Publications
 ======
