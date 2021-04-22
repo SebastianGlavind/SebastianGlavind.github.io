@@ -50,6 +50,9 @@ Work experience
 
 Awards
 ---
+* 2019 best paper award of the journal Civil Engineering and Environmental Systems ([link](https://think.taylorandfrancis.com/journal-prize-civil-engineering-andenvironmental-
+systems-best-paper-award/)).
+* Session award of Network and Data Security at the 4th International Conference on System Reliability and Safety (ICSRS2019; [link](http://www.icsrs.org/icsrs19.html))
 
 Skills
 ---
