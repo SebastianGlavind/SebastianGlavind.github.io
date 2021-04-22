@@ -30,8 +30,8 @@ Work experience
 	* Role: Consultant
 	* Employer: NORTH consulting (CVR 14294481)
 * Sep 2016 -- Dec 2017
-	* Role: Research Assistant 
-	* Employer: Techinical University of Denmark
+	* Role: Research and Teaching Assistant 
+	* Employer: Technical University of Denmark
 * Jan 2014 -- Jun 2016
 	* Role: Coastal Engineer (part time)
 	* Employer: NIRAS A/S, Aarhus, Denmark
