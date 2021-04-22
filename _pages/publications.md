@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Preprints / Under Review
+Papers under review/preprints
 ---
 <ol>
 {% for post in site.publications reversed %}
@@ -21,8 +21,7 @@ Preprints / Under Review
 {% endfor %}
 </ol>
 
-
-Journal Articles
+Journal papers
 ---
 <ol>
 {% for post in site.publications reversed %}
@@ -32,7 +31,7 @@ Journal Articles
 {% endfor %}
 </ol>
 
-Peer reviewed Conference/Workshop Papers
+Peer reviewed conference/workshop papers
 ---
 <ol>
 {% for post in site.publications reversed %}
@@ -42,7 +41,7 @@ Peer reviewed Conference/Workshop Papers
 {% endfor %}
 </ol>
 
-Theses/Reports
+Theses/reports
 ---
 <ol>
 {% for post in site.publications reversed %}
