@@ -58,7 +58,7 @@ Skills
 * Languages:
   | Danish: Mother tongue | English: Fluent | Spanish: Basic | German: Basic |
 * Computing: 
-  | Python | R | Matlab | Octave | Visual Basic |
+  | Python | R | Julia | Matlab | Octave | Visual Basic |
 * Text processing: 
   | MS Office | LaTeX |
 
