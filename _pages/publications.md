@@ -25,6 +25,7 @@ Papers under review/preprints
 
 Journal papers
 ---
+<!--
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
@@ -32,6 +33,7 @@ Journal papers
   {% endif %}
 {% endfor %}
 </ol>
+-->
 
 Peer reviewed conference/workshop papers
 ---
