@@ -25,6 +25,8 @@ Papers under review/preprints
 
 * Glavind, S. T., Brüske, H., Christensen, E. D, and Faber, M. H. (2021) “On systems modeling and context-specific model selection in offshore engineering”, submitted to Computer-Aided Civil and Infrastructure Engineering.
 
+* Glavind, S. T., Sepulveda, J. G., and Faber, M. H. (2021) “On a simple scheme for systems modeling and identification using big data techniques”, submitted to Reliability Engineering & System Safety.
+
 Journal papers
 ---
 {% comment %}
