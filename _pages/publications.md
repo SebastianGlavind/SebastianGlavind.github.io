@@ -23,7 +23,7 @@ Papers under review/preprints
 </ol>
 {% endcomment %}
 
-* Glavind, S. T., Brüske, H., Christensen, E. D, and Faber, M. H., “On systems modeling and context-specific model selection in offshore engineering”, submitted to Computer-Aided Civil and Infrastructure Engineering.
+* Glavind, S. T., Brüske, H., Christensen, E. D, and Faber, M. H. (2021) “On systems modeling and context-specific model selection in offshore engineering”, submitted to Computer-Aided Civil and Infrastructure Engineering.
 
 Journal papers
 ---
