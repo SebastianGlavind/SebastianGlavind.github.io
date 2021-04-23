@@ -13,6 +13,7 @@ author_profile: true
 
 Papers under review/preprints
 ---
+{% comment %}
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
@@ -20,6 +21,7 @@ Papers under review/preprints
   {% endif %}
 {% endfor %}
 </ol>
+{% endcomment %}
 
 Journal papers
 ---
@@ -35,6 +37,7 @@ Journal papers
 
 Peer reviewed conference/workshop papers
 ---
+{% comment %}
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %} 
@@ -42,9 +45,11 @@ Peer reviewed conference/workshop papers
   {% endif %}
 {% endfor %}
 </ol>
+{% endcomment %}
 
 Theses/reports
 ---
+{% comment %}
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'thesis' %}
@@ -52,3 +57,5 @@ Theses/reports
   {% endif %}
 {% endfor %}
 </ol>
+{% endcomment %}
+
