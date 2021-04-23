@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 Bio
----
+====
 I am currently a (pre-)Post Doc researcher in the Section of Civil Engineering and Construction Management, Department of the Build Environment, Aalborg University (Denmark), and I am further working as a consultant for the company NORTH consulting. I recently handed in my PhD thesis, and I am currently awaiting the preliminary assessment of the assessment committee, thus the labeling as (pre-)Post Doc researcher. I hold a MSc degree in Civil and Architectural Engineering from Aarhus University (Denmark) with specialization in structural analysis and monitoring of structures, and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. I have worked as an engineer at Niras (Denmark), COWI (Denmark), and Per Aarsleff (Denmark), where I was mainly involved in design and assessments of geotechnical support structural and marine structures. As may be apparent, I was born and raised in Denmark and I am currently living in Copenhagen.
 
 My current research interests evolve around the modeling and analysis of complex systems, as well as the integration of the modeling efforts into the overarching decision context, the modeling aims to serve.   
 
 Research projects
----
+====
 I am and have been actively involved in a wide range of research projects, which are listed below with brief descriptions.
 
-**Ongoing projects** 
-
+Ongoing projects 
+---
 * **Discrepancy modeling**: 
 This project is undertaken jointly with Department of Mechanical Engineering, Technical University of Denmark (DTU) and has until now mainly focused on discrepancy modeling related to Morrison’s equation based on measurements of forces on a cylindrical body under different turbulence intensities, but we are just getting started and more interesting work will follow.
 
@@ -36,8 +36,8 @@ Coming soon
 
 * ...
 
-**Completed projects**
-
+Completed projects
+---
 Coming soon
 
 
