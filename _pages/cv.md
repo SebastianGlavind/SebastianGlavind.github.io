@@ -70,4 +70,4 @@ Publications
   {% endfor %}</ul>
 {% endcomment %}
 
-See the **Publications** tab ([link](https://sebastianglavind.github.io/publications/)).
+See the <span style="color:gray"> Publications </span> tab ([link](https://sebastianglavind.github.io/publications/)).
