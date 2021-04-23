@@ -28,8 +28,9 @@ This project in undertaken jointly with, among others, industrial partners Total
 
 * **VALID**: 
 Coming soon
+
 * **Corrosion and Fatigue of Offshore Structures**: 
-Coming soon
+The project is undertaken jointly with Industrial partner Total E&P, Denmark, and several departments at DTU, i.e., DTU Civil Engineering, DTU Mechanical Engineering, DTU Wind Energy. The purpose of the project is to provide insight on the fatigue performance of modern materials, welds, and structures for offshore applications and through model development, and a general reduction of model uncertainties, to enable more reliable and cost-efficient fatigue design, maintenance, and repair.
 
 * **Knowledge transfer project (Energy cluster)**: 
 Coming soon
