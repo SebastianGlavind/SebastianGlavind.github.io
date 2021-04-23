@@ -21,10 +21,10 @@ I am and have been actively involved in a wide range of research projects, which
 Ongoing projects 
 ---
 * **Discrepancy modeling**: 
-This project is undertaken jointly with Department of Mechanical Engineering, Technical University of Denmark and has until now mainly focused on discrepancy modeling related to Morrison’s equation based on measurements of forces on a cylindrical body under different turbulence intensities, but we are just getting started and more interesting work will follow.
+This project is undertaken jointly with Department of Mechanical Engineering, Technical University of Denmark (DTU) and has until now mainly focused on discrepancy modeling related to Morrison’s equation based on measurements of forces on a cylindrical body under different turbulence intensities, but we are just getting started and more interesting work will follow.
 
 * **InnoSHM**: 
-This project in undertaken jointly with, among others, industrial partners Total E&P Denmark and Ramboll, and Department of Civil Engineering, Technical University of Denmark. The project focuses on devising a structural health monitoring campaign for offshore structures, where special attention is given to damage feature design, e.g., identification of potential indicators for different failures in offshore structures, feature selection, and data fusion and normalization.
+This project in undertaken jointly with, among others, industrial partners Total E&P Denmark and Ramboll, and Department of Civil Engineering, DTU. The project focuses on devising a structural health monitoring campaign for offshore structures, where special attention is given to damage feature design, e.g., identification of potential indicators for different failures in offshore structures, feature selection, and data fusion and normalization.
 
 * **VALID**: 
 Coming soon
