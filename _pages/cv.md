@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
----
+## Education
+
 * Doctor of Philosophy (PhD; expected 2021) 
   * Thesis topic: Probabilistic modeling and analysis of complex systems in consistency with the overarching decision context
   * Department of the Built Environment, Aalborg University, Denmark
@@ -21,8 +21,8 @@ Education
   * Program: Structural design and analysis. GPA: 11.5/12 
   * Aarhus School of Engineering, Aarhus University, Denmark
 
-Work experience
----
+## Work experience
+
 * Apr 2021 -- Now
 	* Role: (Pre-) Post Doc Researcher
 	* Employer: Aalborg University, Denmark
@@ -48,13 +48,13 @@ Work experience
 	* Role: Geotechnical and Structural Engineer (internship)
 	* Employer: Per Aarsleff A/S, Aarhus, Denmark
 
-Awards
----
+## Awards
+
 * 2019 best paper award of the journal Civil Engineering and Environmental Systems ([link](https://think.taylorandfrancis.com/journal-prize-civil-engineering-and-environmental-systems-best-paper-award/))
 * Session award of Network and Data Security at the 4th International Conference on System Reliability and Safety (ICSRS2019; [link](http://www.icsrs.org/icsrs19.html))
 
-Skills
----
+## Skills
+
 * Languages:
   | Danish: Mother tongue | English: Fluent | Spanish: Basic | German: Basic |
 * Computing: 
@@ -62,8 +62,8 @@ Skills
 * Text processing: 
   | MS Office | LaTeX |
 
-Publications
----
+## Publications
+
 {% comment %}
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
