@@ -13,7 +13,7 @@ author_profile: true
 
 Papers under review/preprints
 ---
-<!--
+<!---
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
@@ -25,7 +25,7 @@ Papers under review/preprints
 
 Journal papers
 ---
-<!--
+<!---
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
