@@ -13,7 +13,6 @@ author_profile: true
 
 Papers under review/preprints
 ---
-<!---
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'preprint' %}
@@ -21,11 +20,10 @@ Papers under review/preprints
   {% endif %}
 {% endfor %}
 </ol>
--->
 
 Journal papers
 ---
-<!---
+{::comment}
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
@@ -33,7 +31,7 @@ Journal papers
   {% endif %}
 {% endfor %}
 </ol>
--->
+{:/comment}
 
 Peer reviewed conference/workshop papers
 ---
