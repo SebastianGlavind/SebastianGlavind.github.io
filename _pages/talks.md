@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-## Selected talks
-
+Upcomming talks
+====
 * 2021
 	* ...
 
+Recent, selected talks
+====
 * 2020
 	* "On normalized fatigue growth modeling", the ASME 2020 39th International Conference on Ocean, Offshore and Arctic Engineering (OMAE2020), Virtual event.
 	* "Big Data Techniques for Probabilistic System Representations", Ramboll, Esbjerg, Denmark.
