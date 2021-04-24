@@ -10,9 +10,9 @@ redirect_from:
 
 Bio
 ====
-I am a (pre-)Post Doc researcher in the Section of Civil Engineering and Construction Management, Department of the Build Environment, Aalborg University (Denmark), and I am further working as a consultant for the company NORTH consulting. I recently handed in my PhD thesis, and I am currently awaiting the preliminary assessment of the assessment committee, thus the labeling as (pre-)Post Doc researcher. I hold a MSc degree in Civil and Architectural Engineering from Aarhus University (Denmark) with specialization in structural analysis and monitoring of structures, and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. I have worked as an engineer at NIRAS (Denmark), COWI (Denmark), and Per Aarsleff (Denmark), where I was mainly involved in design and assessments of geotechnical support structural and marine structures. As may be apparent, I was born and raised in Denmark and I am currently living in Copenhagen.
+I am a (pre-)Post Doc researcher in the Section of Civil Engineering and Construction Management, Department of the Built Environment, Aalborg University (Denmark), and I am further working as a consultant for the company NORTH consulting. I recently handed in my PhD thesis, and I am currently awaiting the preliminary assessment of the assessment committee, thus the labeling as (pre-)Post Doc researcher. I hold a MSc degree in Civil and Architectural Engineering from Aarhus University (Denmark) with specialization in structural analysis and monitoring of structures, and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. I have worked as an engineer at NIRAS (Denmark), COWI (Denmark), and Per Aarsleff (Denmark), where I was mainly involved in design and assessments of geotechnical support structural and marine structures. As may be apparent, I was born and raised in Denmark and I am currently living in Copenhagen.
 
-My research interests evolve around the modeling and analysis of complex systems, as well as the integration of the modeling efforts into the overarching decision context, the modeling aims to serve.   
+My research interests evolve around the modeling and analysis of complex systems, as well as the integration of the modeling efforts into the overarching decision context, the modeling aims to serve. In this regard, I mainly work with Bayesian approaches in statistics, machine learning, and decision analysis.   
 
 Research projects
 ====
@@ -21,21 +21,19 @@ I am and have been actively involved in a wide range of research projects, which
 Ongoing projects 
 ---
 * **Discrepancy modeling**: 
-This project is undertaken jointly with Department of Mechanical Engineering, Technical University of Denmark (DTU) and has until now mainly focused on discrepancy modeling related to Morrison’s equation based on measurements of forces on a cylindrical body under different turbulence intensities, but we are just getting started and more interesting work will follow.
+This project is undertaken jointly with Department of Mechanical Engineering, Technical University of Denmark (DTU Mechanical Engineering) and has until now mainly focused on discrepancy modeling related to Morrison’s equation based on measurements of forces on a cylindrical body under different turbulence intensities, but we are just getting started, and more interesting work will follow.
 
 * **InnoSHM**: 
-This project in undertaken jointly with, among others, industrial partners Total E&P Denmark and Ramboll, and Department of Civil Engineering, DTU. The project focuses on devising a structural health monitoring campaign for offshore structures, where special attention is given to damage feature design, e.g., identification of potential indicators for different failures in offshore structures, feature selection, and data fusion and normalization.
+This project in undertaken jointly with, among others, industrial partners TOTAL E&P Denmark and Rambøll Denmark, and DTU Civil Engineering. The project focuses on devising a structural health monitoring campaign for offshore structures, where special attention is given to damage feature design, e.g., identification of potential indicators for different failures in offshore structures, feature selection, and data fusion and normalization.
 
 * **VALID**: 
 Coming soon
 
 * **Corrosion and Fatigue of Offshore Structures**: 
-The project is undertaken jointly with Industrial partner Total E&P, Denmark, and several departments at DTU, i.e., DTU Civil Engineering, DTU Mechanical Engineering, DTU Wind Energy. The purpose of the project is to provide insight on the fatigue performance of modern materials, welds, and structures for offshore applications and through model development, and a general reduction of model uncertainties, to enable more reliable and cost-efficient fatigue design, maintenance, and repair.
+This project is undertaken jointly with industrial partner TOTAL E&P, Denmark, and several departments at DTU, i.e., DTU Civil Engineering, DTU Mechanical Engineering, DTU Wind Energy. The purpose of the project is to provide insight on the fatigue performance of modern materials, welds, and structures for offshore applications and, through model development and a general reduction of model uncertainties, to enable more reliable and cost-efficient fatigue design, maintenance, and repair.
 
 * **Knowledge transfer project (Energy cluster)**: 
 Coming soon
-
-* ...
 
 Completed projects
 ---
