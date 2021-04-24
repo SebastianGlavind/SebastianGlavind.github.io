@@ -11,8 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Papers under review/preprints
-
+Papers under review/preprints
+====
 {% comment %}
 <ol>
 {% for post in site.publications reversed %}
@@ -27,8 +27,8 @@ author_profile: true
 
 * Glavind, S. T., Sepulveda, J. G., and Faber, M. H., "On a simple scheme for systems modeling and identification using big data techniques", submitted to Reliability Engineering & System Safety, 2021.
 
-## Journal papers
-
+Journal papers
+====
 {% comment %}
 <ol>
 {% for post in site.publications reversed %}
@@ -43,8 +43,8 @@ author_profile: true
 
 * Nielsen, L., Glavind, S. T., Qin, J., and Faber, M. H., "Faith and fakes – dealing with critical information in decision analysis", Civil Engineering and Environmental Systems, vol. 36, no. 1, pp. 32-54, 2019 ([link](https://www.tandfonline.com/doi/full/10.1080/10286608.2019.1615476)).
 
-## Peer reviewed conference/workshop papers
-
+Peer reviewed conference/workshop papers
+====
 {% comment %}
 <ol>
 {% for post in site.publications reversed %}
@@ -61,8 +61,8 @@ author_profile: true
 
 * Glavind, S. T., and Faber, M. H., "A framework for offshore load environment modeling", in Proceedings of the ASME 2018 37th International Conference on Ocean, Offshore and Arctic Engineering (OMAE2018), OMAE2018-77674, 2018 ([link](https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2018/51272/V07BT06A006/274135)).
 
-## Theses/reports
-
+Theses/reports
+====
 {% comment %}
 <ol>
 {% for post in site.publications reversed %}
