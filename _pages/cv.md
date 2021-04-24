@@ -24,7 +24,7 @@ Education
 Work experience
 ====
 * Apr 2021 -- Now
-	* Role: (Pre-) Post Doc Researcher
+	* Role: (Pre-)Post Doc Researcher
 	* Employer: Aalborg University, Denmark
 * Dec 2019 -- Now
 	* Role: Consultant
@@ -36,7 +36,7 @@ Work experience
 	* Role: Coastal Engineer (part time)
 	* Employer: NIRAS A/S, Aarhus, Denmark
 * Jan 2013 -- Jun 2016
-	* Role: Lecturer (part time)
+	* Role: Guest Lecturer (part time)
 	* Employer: Aarhus University
 * Jan 2013 -- Jan 2014
 	* Role: Geotechnical Engineer (part time)
@@ -61,6 +61,15 @@ Skills
   | Python | R | Julia | Matlab | Octave | Visual Basic |
 * Text processing: 
   | MS Office | LaTeX |
+
+Accomplishments
+====
+* Gaussian process summer school (GPSS; 2020)
+	* Department of Computer Science, University of Sheffield, England
+* Training Course on Bayesian Networks (2017) 
+	* HUGIN EXPERT A/S, Aalborg, Denmark
+* Bachelor of Science in Economics and Management (First year, 2008)
+	* Department of Economics and Business, Aarhus University, Denmark
 
 Publications
 ====
