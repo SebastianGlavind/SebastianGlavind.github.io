@@ -32,8 +32,8 @@ Coming soon
 * **Corrosion and Fatigue of Offshore Structures**: 
 This project is undertaken jointly with industrial partner TOTAL E&P Denmark, and several departments at DTU, i.e., DTU Civil Engineering, DTU Mechanical Engineering, DTU Wind Energy. The purpose of the project is to provide insight on the fatigue performance of modern materials, welds, and structures for offshore applications and, through model development and a general reduction of model uncertainties, to enable more reliable and cost-efficient fatigue design, maintenance, and repair.
 
-* **Knowledge transfer project (Energy cluster)**: 
-Coming soon
+* **Structural Health Management for Offshore Wind Turbine Farms (knowledge transfer project; Energy Cluster Denmark)**: 
+This project is undertaken jointly with industrial partners LIC Engineering, Vattenfall Vindkraft, and MATRISK Gmbh, and the Danish Center for Risk and Safety Management, Aalborg University. The purpose of the project is the knowledge transfer of present best practice on risk-informed inspection and maintenance planning, and digital twin technology from the offshore oil and gas industry to the offshore wind industry.
 
 Completed projects
 ---
