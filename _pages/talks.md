@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Upcomming talks
+Upcoming talks
 ====
 * 2021
 	* ...
@@ -27,7 +27,7 @@ Recent, selected talks
 	* "A Decision Analytical Framework for Systems Modeling", the ASCE Engineering Mechanics Institute Conference (EMI2019), Caltech, Pasadena, USA.
 	* "Bayesian Probabilistic Systems Modeling Strategies", The Joint Research Centre in Ispra, Italy.
 	* "PhD status seminar", Aalborg University, Aalborg, Denmark.
-	* "Bayesian networks for clustering and visualization of falure mode realizations", TOTAL E&P, Esbjerg, Denmark.
+	* "Bayesian networks for clustering and visualization of failure mode realizations", TOTAL E&P, Esbjerg, Denmark.
 * 2018
 	* "Load environment modeling", Danish Hydraulic Institute (DHI), Hørsholm, Denmark. 
 	* "Interview of young research talent", Technical University of Denmark (DTU), Lyngby, Denmark, ([link](https://www.oilgas.dtu.dk/english/research/work-programmes-and-research/ctr-3/sebastian-toelboell-glavind))
