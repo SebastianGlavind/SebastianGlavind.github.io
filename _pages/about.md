@@ -37,7 +37,7 @@ This project is undertaken jointly with industrial partners LIC Engineering, Vat
 
 Completed projects
 ---
-Coming soon
+* **Vibration-based identification of mass changes using statistical learning theory** (2016): MSc thesis, Aarhus University.
 
 
 
