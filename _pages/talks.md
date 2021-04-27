@@ -12,7 +12,7 @@ redirect_from:
 Upcoming talks
 ====
 * 2021
-	* ...
+	* "Information-consistent systems modeling and analysis - with applications in offshore engineering", PhD defence (expected June 25).
 
 Recent, selected talks
 ====
