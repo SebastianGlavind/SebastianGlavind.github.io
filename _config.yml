@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sebastian Tølbøll Glavind" #"SebastianGlavind<br>stglavind"
+  name             : "Sebastian T. Glavind" #"SebastianGlavind<br>stglavind"
   avatar           : "profile.png"
   bio              : "(Pre-)Post Doc @ Section of Civil Engineering and Construction Management, Aalborg University"
   location         : "Copenhagen, Denmark"
