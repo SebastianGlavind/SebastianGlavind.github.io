@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sebastian T. Glavind"
 title_separator          : "-"
-name                     : &name "SebastianGlavind"
+name                     : &name "SebastianGlavind/stglavind"
 description              : &description "personal description"
 url                      : https://SebastianGlavind.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
