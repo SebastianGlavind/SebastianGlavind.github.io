@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bio
+Short bio
 ====
 Sebastian T. Glavind is a (pre-)Post Doc researcher in the Section of Civil Engineering and Construction Management, Department of the Built Environment, Aalborg University (Denmark), and he is further working as a consultant for the company NORTH consulting. He recently handed in his PhD thesis and is currently awaiting the preliminary assessment of the assessment committee, thus the labeling as (pre-)Post Doc researcher. Sebastian holds a MSc degree in Civil and Architectural Engineering from Aarhus University (Denmark) with specialization in structural analysis and monitoring of structures, and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. He has practiced engineering at NIRAS (Denmark), COWI (Denmark), and Per Aarsleff (Denmark), where he was mainly involved in design and assessments of geotechnical support structural and marine structures.
 
