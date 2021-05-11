@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "SebastianGlavind<br>stglavind"
+  name             : "Sebastian Tølbøll Glavind" #"SebastianGlavind<br>stglavind"
   avatar           : "profile.png"
   bio              : "(Pre-)Post Doc @ Section of Civil Engineering and Construction Management, Aalborg University"
   location         : "Copenhagen, Denmark"
