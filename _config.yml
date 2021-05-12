@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sebastian Tølbøll Glavind"
+title                    : "Sebastian T. Glavind"
 title_separator          : "-"
 name                     : &name "SebastianGlavind"
 description              : &description "personal description"
