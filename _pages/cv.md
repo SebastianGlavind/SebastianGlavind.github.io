@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ====
-* Doctor of Philosophy (PhD; expected 2021) 
+* Doctor of Philosophy (PhD; 2021) 
+  * Thesis title: "Information-consistent systems modeling and analysis - with applications in offshore engineering"
   * Thesis topic: Probabilistic modeling and analysis of complex systems in consistency with the overarching decision context
   * Department of the Built Environment, Aalborg University, Denmark
 * Master of Science (MSc; 2016)
