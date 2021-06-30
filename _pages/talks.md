@@ -14,7 +14,7 @@ Upcoming talks
 * 2021
 	* ...
 
-Recent, selected talks
+Selected, recent talks
 ====
 * 2021
 	* "Information-consistent systems modeling and analysis - with applications in offshore engineering", PhD defence (June 25, 2021).
