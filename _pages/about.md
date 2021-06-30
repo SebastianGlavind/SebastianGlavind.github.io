@@ -35,9 +35,8 @@ This project is undertaken jointly with industrial partner TOTAL E&P Denmark, an
 * **Structural health management for offshore wind turbine farms (knowledge transfer project; Energy Cluster Denmark)**: 
 This project is undertaken jointly with industrial partners LIC Engineering, Vattenfall Vindkraft, and MATRISK Gmbh, and the Danish Center for Risk and Safety Management, Aalborg University. The purpose of the project is the knowledge transfer of present best practice on risk-informed inspection and maintenance planning, and digital twin technology from the offshore oil and gas industry to the offshore wind industry.
 
-Completed projects
+Selected, completed projects
 ---
-* **Vibration-based identification of mass changes using statistical learning theory** (2016): MSc thesis, Aarhus University.
-
-
+* **Information-consistent systems modeling and analysis - with applications in offshore engineering**, PhD thesis, Aalborg University, 2021.
+* **Vibration-based identification of mass changes using statistical learning theory**, MSc thesis, Aarhus University, 2016.
 
