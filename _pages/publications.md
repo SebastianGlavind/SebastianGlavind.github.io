@@ -73,6 +73,6 @@ Theses/reports
 </ol>
 {% endcomment %}
 
-* Glavind, S. T., "Information-consistent systems modeling and analysis - with applications in offshore engineering", PhD thesis, Aalborg University, expected 2021.
+* Glavind, S. T., "Information-consistent systems modeling and analysis - with applications in offshore engineering", PhD thesis, Aalborg University, 2021.
 
 * Glavind, S. T., "Vibration-based identification of mass changes using statistical learning theory", MSc thesis, Aarhus University, 2016.
