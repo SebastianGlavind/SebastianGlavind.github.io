@@ -12,10 +12,15 @@ redirect_from:
 Upcoming talks
 ====
 * 2021
-	* "Information-consistent systems modeling and analysis - with applications in offshore engineering", PhD defence (expected June 25).
+	* ...
 
 Recent, selected talks
 ====
+* 2021
+	* "Information-consistent systems modeling and analysis - with applications in offshore engineering", PhD defence (June 25, 2021).
+	* "Context-specific model selection - A principal example", Joint Committee on Structural Safety (JCSS), Virtual event (June 2, 2021).
+	* "JCSS reliability toolbox - Jupyter notebook format", Joint Committee on Structural Safety (JCSS), Virtual event (June 2, 2021).
+
 * 2020
 	* "On normalized fatigue growth modeling", the ASME 2020 39th International Conference on Ocean, Offshore and Arctic Engineering (OMAE2020), Virtual event.
 	* "Big Data Techniques for Probabilistic System Representations", Ramboll, Esbjerg, Denmark.
