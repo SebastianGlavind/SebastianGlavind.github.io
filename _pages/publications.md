@@ -23,9 +23,9 @@ Papers under review/preprints
 </ol>
 {% endcomment %}
 
-* Glavind, S. T., Brüske, H., Christensen, E. D, and Faber, M. H., "On systems modeling and context-specific model selection in offshore engineering", submitted to Computer-Aided Civil and Infrastructure Engineering, 2021.
+* Glavind, S. T., Brüske, H., Christensen, E. D, and Faber, M. H., "Bayesian probabilistic representation of complex systems - with application to wave load modeling", accepted for publication in Computer-Aided Civil and Infrastructure Engineering, 2021.
 
-* Glavind, S. T., Sepulveda, J. G., and Faber, M. H., "On a simple scheme for systems modeling and identification using big data techniques", submitted to Reliability Engineering & System Safety, 2021.
+* Glavind, S. T., Sepulveda, J. G., and Faber, M. H., "On a simple scheme for systems modeling and identification using big data techniques", accepted for publication in Reliability Engineering & System Safety, 2021.
 
 Journal papers
 ====
