@@ -38,10 +38,10 @@ Work experience
 * Jan 2013 -- Jun 2016
 	* Role: Guest Lecturer (part time)
 	* Employer: Aarhus University
-* Jan 2013 -- Jan 2014
+* Jan 2013 -- Dec 2013
 	* Role: Geotechnical Engineer (part time)
 	* Employer: COWI A/S, Aarhus, Denmark
-* Jan 2012 -- Jan 2013
+* Jan 2012 -- Dec 2012
 	* Role: Geotechnical Engineer
 	* Employer: COWI A/S, Aarhus, Denmark
 * Aug 2010 -- Dec 2010
