@@ -17,7 +17,7 @@ Upcoming talks
 Selected, recent talks
 ====
 * 2021
-	* "Information-consistent systems modeling and analysis - with applications in offshore engineering", PhD defence (June 25, 2021).
+	* "Information-consistent systems modeling and analysis - with applications in offshore engineering", PhD defense (June 25, 2021).
 	* "Context-specific model selection - A principal example", Joint Committee on Structural Safety (JCSS), Virtual event (June 2, 2021).
 	* "JCSS reliability toolbox - Jupyter notebook format", Joint Committee on Structural Safety (JCSS), Virtual event (June 2, 2021).
 
