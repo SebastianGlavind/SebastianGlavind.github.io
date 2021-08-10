@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sebastian T. Glavind" #"SebastianGlavind<br>stglavind"
+  name             : "SebastianGlavind" #"SebastianGlavind<br>stglavind"
   avatar           : "profile.png"
-  bio              : "(Pre-)Post Doc @ Section of Civil Engineering and Construction Management, Aalborg University"
+  bio              : "Researcher [@AAU] • Consultant • Civil engineer [MSc & BSc] • Machine learner [PhD] • Data scientist • Decision analyst"
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
