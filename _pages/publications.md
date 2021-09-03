@@ -23,8 +23,6 @@ Papers under review/preprints
 </ol>
 {% endcomment %}
 
-* Glavind, S. T., Brüske, H., Christensen, E. D, and Faber, M. H., "Bayesian probabilistic representation of complex systems - with application to wave load modeling", accepted for publication in Computer-Aided Civil and Infrastructure Engineering, 2021.
-
 * Glavind, S. T., Sepulveda, J. G., and Faber, M. H., "On a simple scheme for systems modeling and identification using big data techniques", accepted for publication in Reliability Engineering & System Safety, 2021.
 
 Journal papers
@@ -38,6 +36,8 @@ Journal papers
 {% endfor %}
 </ol>
 {% endcomment %}
+
+* Glavind, S. T., Brüske, H., Christensen, E. D, and Faber, M. H., "Bayesian probabilistic representation of complex systems: With application to wave load modeling", Computer-Aided Civil and Infrastructure Engineering, pp. 1-21, 2021 ([link](https://onlinelibrary.wiley.com/doi/10.1111/mice.12763))
 
 * Glavind, S. T., and Faber, M. H., "A framework for offshore load environment modeling", Journal of Offshore Mechanics and Arctic Engineering, vol. 142, no. 2, pp. 021702, OMAE-19-1059, 2020 ([link](https://asmedigitalcollection.asme.org/offshoremechanics/article-abstract/142/2/021702/1065640/A-Framework-for-Offshore-Load-Environment?redirectedFrom=PDF)).
 
