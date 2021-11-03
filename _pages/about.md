@@ -10,13 +10,13 @@ redirect_from:
 
 Short bio
 ====
-Sebastian Tølbøll Glavind is a researcher in the Section of Civil Engineering and Construction Management, Department of the Built Environment, Aalborg University (Denmark), and he is further working as a consultant for the company NORTH consulting. Sebastian holds a PhD degree in Engineering from Aalborg University (Denmark), where he focused on developing and analyzing probabilistic machine learning models of offshore systems, a MSc degree in Civil and Architectural Engineering from Aarhus University (Denmark) with specialization in structural analysis and monitoring of structures, and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. He has practiced engineering at NIRAS (Denmark), COWI (Denmark), and Per Aarsleff (Denmark), where he was mainly involved in design and assessments of geotechnical support structures and marine structures.
+Sebastian Tølbøll Glavind is a postdoctoral researcher in the Section of Civil Engineering and Construction Management, Department of the Built Environment, Aalborg University (Denmark), and he is further working as a consultant for the company NORTH consulting. Sebastian holds a PhD degree in Engineering from Aalborg University (Denmark), where he focused on developing and analyzing probabilistic machine learning models of offshore systems, a MSc degree in Civil and Architectural Engineering from Aarhus University (Denmark) with specializations in structural analysis and monitoring of structures, and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. He has practiced engineering at NIRAS (Denmark), COWI (Denmark), and Per Aarsleff (Denmark), where he was mainly involved in design and assessments of geotechnical support structures and marine structures.
 
 Sebastians research interests evolve around the probabilistic modeling and analysis of complex systems, as well as the integration of the modeling efforts into the overarching decision context, which the modeling aims to support. In this regard, he mainly works with Bayesian approaches in statistics, machine learning, and decision analysis.  
 
 Research projects
 ====
-Sebastian is and have been actively involved in a wide range of research projects, which are listed below with brief descriptions.
+Sebastian is and have been actively involved in a wide range of research projects, some of which are listed below with brief descriptions.
 
 Ongoing projects 
 ---
