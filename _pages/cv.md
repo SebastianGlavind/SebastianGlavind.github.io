@@ -24,7 +24,7 @@ Education
 Work experience
 ====
 * Apr 2021 -- Now
-	* Role: Post Doc Researcher, Research Associate
+	* Role: Postdoctoral researcher, Research associate
 	* Employer: Aalborg University, Denmark
 * Dec 2019 -- Now
 	* Role: Consultant
