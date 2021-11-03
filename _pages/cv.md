@@ -64,8 +64,6 @@ Skills
 
 Accomplishments
 ====
-* Gaussian process summer school (GPSS; 2020)
-	* Department of Computer Science, University of Sheffield, England
 * Training Course on Bayesian Networks (2017) 
 	* HUGIN EXPERT A/S, Aalborg, Denmark
 * Bachelor of Science in Economics and Management (First year, 2008)
