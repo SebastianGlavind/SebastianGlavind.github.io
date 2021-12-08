@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-***
-
 PhD courses
 ====
 * JCSS - Advanced course on Systems Risk Modeling and Analysis in Engineering Decision Making (2020 postponed to 2021)
