@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <pre>
+
 ***
-<\pre>
 
 Short bio
 ====
