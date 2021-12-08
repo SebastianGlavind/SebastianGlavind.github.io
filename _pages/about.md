@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% %}
-
+{}
 ***
 
 Short bio
