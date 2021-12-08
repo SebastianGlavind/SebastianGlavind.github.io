@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-***
-
 Education
 ====
 * Doctor of Philosophy (PhD; 2021) 
