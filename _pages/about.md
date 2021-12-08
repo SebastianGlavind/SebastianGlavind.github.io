@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-p {
-    padding-bottom: -1cm;
-}
-
+<pre>
 ***
+<\pre>
 
 Short bio
 ====
