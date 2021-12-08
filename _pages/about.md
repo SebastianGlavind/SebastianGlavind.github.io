@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+p {
+    padding-bottom: -1cm;
+}
+
 ***
 
 Short bio
