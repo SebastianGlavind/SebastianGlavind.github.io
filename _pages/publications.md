@@ -25,7 +25,7 @@ Papers under review/preprints
 </ol>
 {% endcomment %}
 
-* Glavind, S. T., Sepulveda, J. G., and Faber, M. H., "On a simple scheme for systems modeling and identification using big data techniques", accepted for publication in Reliability Engineering & System Safety, 2021.
+* Glavind, S. T., Sepulveda, J. G., and Faber, M. H., "On a simple scheme for systems modeling and identification using big data techniques", accepted for publication in Reliability Engineering & System Safety, 2021 ([link](https://www.sciencedirect.com/science/article/abs/pii/S0951832021006979)).
 
 Journal papers
 ====
