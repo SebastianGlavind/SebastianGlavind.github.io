@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-***
-
 Master theses
 ====
 * Madeleine Durieux Rostrup-Nielsen (2020)
