@@ -9,18 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-====
-* Doctor of Philosophy (PhD; 2021) 
-  * Thesis title: "Information-consistent systems modeling and analysis - with applications in offshore engineering"
-  * Department of the Built Environment, Aalborg University, Denmark
-* Master of Science (MSc; 2016)
-  * Program: Structural analyses and monitoring of structures. GPA: 12/12  
-  * Department of Civil and Architectural Engineering, Aarhus University, Denmark
-* Bachelor of Science (BSc; 2012) 
-  * Program: Structural design and analysis. GPA: 11.5/12 
-  * Aarhus School of Engineering, Aarhus University, Denmark
-
 Work experience
 ====
 * Apr 2021 -- Now
@@ -48,6 +36,18 @@ Work experience
 	* Role: Geotechnical and Structural Engineer (internship)
 	* Employer: Per Aarsleff A/S, Aarhus, Denmark
 
+Education
+====
+* Doctor of Philosophy (PhD; 2021) 
+  * Thesis title: "Information-consistent systems modeling and analysis - with applications in offshore engineering"
+  * Department of the Built Environment, Aalborg University, Denmark
+* Master of Science (MSc; 2016)
+  * Program: Structural analyses and monitoring of structures. GPA: 12/12  
+  * Department of Civil and Architectural Engineering, Aarhus University, Denmark
+* Bachelor of Science (BSc; 2012) 
+  * Program: Structural design and analysis. GPA: 11.5/12 
+  * Aarhus School of Engineering, Aarhus University, Denmark
+
 Awards
 ====
 * 2019 best paper award of the journal Civil Engineering and Environmental Systems ([link](https://think.taylorandfrancis.com/journal-prize-civil-engineering-and-environmental-systems-best-paper-award/))
@@ -56,11 +56,13 @@ Awards
 Skills
 ====
 * Languages:
-  | Danish: Mother tongue | English: Fluent | Spanish: Basic | German: Basic |
-* Computing: 
-  | Python | R | Julia | Matlab | Octave | Visual Basic |
+  Danish (Mother tongue), English (Fluent), Spanish (Basic) German (Basic)
+* Programming languages:
+  Python, R, Julia, Matlab, Octave
+* Programming libraries:
+  TensorFlow, Torch, Scikit, SciPy, OpenTURNS, Stan, GPy, CARRoT, bnlearn, LIBSVM, etc.
 * Text processing: 
-  | MS Office | LaTeX |
+  MS Office, LaTeX
 
 Accomplishments
 ====
