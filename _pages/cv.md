@@ -56,7 +56,7 @@ Awards
 Skills
 ====
 * Languages:
-  Danish (Mother tongue), English (Fluent), Spanish (Basic) German (Basic)
+  Danish (Mother tongue), English (Fluent), Spanish (Basic), German (Basic)
 * Programming languages:
   Python, R, Julia, Matlab, Octave
 * Programming libraries:
