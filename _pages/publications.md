@@ -23,8 +23,6 @@ Papers under review/preprints
 </ol>
 {% endcomment %}
 
-* Glavind, S. T., Sepulveda, J. G., and Faber, M. H., "On a simple scheme for systems modeling and identification using big data techniques", accepted for publication in Reliability Engineering & System Safety, 2021 ([link](https://www.sciencedirect.com/science/article/abs/pii/S0951832021006979)).
-
 Journal papers
 ====
 {% comment %}
@@ -36,6 +34,8 @@ Journal papers
 {% endfor %}
 </ol>
 {% endcomment %}
+
+* Glavind, S. T., Sepulveda, J. G., and Faber, M. H., "On a simple scheme for systems modeling and identification using big data techniques", Reliability Engineering & System Safety, vol. 220, pp. 108219, 2022 ([link](https://www.sciencedirect.com/science/article/abs/pii/S0951832021006979)).
 
 * Glavind, S. T., Brüske, H., Christensen, E. D, and Faber, M. H., "Bayesian probabilistic representation of complex systems: With application to wave load modeling", Computer-Aided Civil and Infrastructure Engineering, pp. 1-21, 2021 ([link](https://onlinelibrary.wiley.com/doi/10.1111/mice.12763))
 
