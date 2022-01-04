@@ -58,7 +58,7 @@ Skills
 * Languages:
   Danish (Mother tongue), English (Fluent), Spanish (Basic), German (Basic)
 * Programming languages:
-  Python, R, Julia, Matlab, Octave
+  Python, R, Julia, Matlab, Octave, SQL
 * Programming libraries:
   TensorFlow, Torch, Scikit, SciPy, OpenTURNS, Stan, GPy, CARRoT, bnlearn, LIBSVM, etc.
 * Text processing: 
