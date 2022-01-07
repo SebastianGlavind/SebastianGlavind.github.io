@@ -23,6 +23,10 @@ Papers under review/preprints
 </ol>
 {% endcomment %}
 
+* Glavind, S. T., Sepulveda, J. G., and Faber, M. H., "On big data analysis for damage detection", submitted to the 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021-2022), ICOSSAR2021-P0569, 2022.
+
+* Nielsen, L., Glavind, S. T., and Faber, M. H., "On Course for Calamity? – on Knowledge and Memory in Capacity Building for Risk Governance", invited to Taylor & Francis special issue.
+
 Journal papers
 ====
 {% comment %}
