@@ -16,7 +16,7 @@ Work experience
 	* Employer: Aalborg University, Denmark
 * Dec 2019 -- Now
 	* Role: Consultant
-	* Employer: NORTH consulting (CVR 14294481)
+	* Employer: [NORTH consulting (CVR 14294481)](https://north-consulting.dk/)
 * Sep 2016 -- Dec 2017
 	* Role: Research and Teaching Assistant 
 	* Employer: Technical University of Denmark
@@ -60,7 +60,7 @@ Skills
 * Programming languages:
   Python, R, Julia, Matlab, Octave, SQL
 * Programming libraries:
-  TensorFlow, Torch, Scikit, SciPy, OpenTURNS, Stan, GPy, CARRoT, bnlearn, LIBSVM, etc.
+  TensorFlow, Torch, Scikit, SciPy, OpenTURNS, Stan, GPy, CARRoT, bnlearn, etc.
 * Text processing: 
   MS Office, LaTeX
 
