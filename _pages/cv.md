@@ -60,7 +60,7 @@ Skills
 * Programming languages:
   Python, R, Julia, Matlab, Octave, SQL
 * Programming libraries:
-  TensorFlow, Torch, Scikit, SciPy, OpenTURNS, Stan, GPy, CARRoT, bnlearn, etc.
+  TensorFlow, Torch, SciPy, Scikit, OpenTURNS, Stan, GPy, CARRoT, bnlearn, etc.
 * Text processing: 
   MS Office, LaTeX
 
