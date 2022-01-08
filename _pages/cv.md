@@ -13,10 +13,10 @@ Work experience
 ====
 * Apr 2021 -- Now
 	* Role: Postdoctoral researcher, Research associate
-	* Employer: Aalborg University, Denmark
+	* Employer: Aalborg University, Denmark ([link](https://www.en.build.aau.dk/research/cecm/))
 * Dec 2019 -- Now
 	* Role: Consultant
-	* Employer: [NORTH consulting (CVR 14294481)](https://north-consulting.dk/)
+	* Employer: NORTH consulting (CVR 14294481; [link](https://north-consulting.dk/))
 * Sep 2016 -- Dec 2017
 	* Role: Research and Teaching Assistant 
 	* Employer: Technical University of Denmark
