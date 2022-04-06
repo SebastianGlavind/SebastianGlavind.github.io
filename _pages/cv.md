@@ -57,6 +57,8 @@ Skills
 ====
 * Languages:
   Danish (Mother tongue), English (Fluent), Spanish (Basic), German (Basic)
+* Operating systems:
+  Windows, macOS, Linux 
 * Programming languages:
   Python, R, Julia, Matlab, Octave, SQL
 * Programming libraries:
