@@ -68,6 +68,8 @@ Skills
 
 Accomplishments
 ====
+* IBM Data Science Professional Certificate (2022)
+	* Offered by IBM through Coursera
 * Training Course on Bayesian Networks (2017) 
 	* HUGIN EXPERT A/S, Aalborg, Denmark
 * Bachelor of Science in Economics and Management (First year, 2008)
