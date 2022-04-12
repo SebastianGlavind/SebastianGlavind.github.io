@@ -11,7 +11,4 @@ redirect_from:
 
 Master theses
 ====
-* Madeleine Durieux Rostrup-Nielsen (2020)
-	* Topic: Discrepancy modeling related to Morrison's equation for oscillatory loads on cylindrical structures using time series analysis ([link](https://findit.dtu.dk/en/catalog/2599206775))
-	* Role: Co-supervisor
-	* Department of Mechanical Engineering, Technical University of Denmark
+* Rostrup-Nielsen, M. D., “Time Series Analysis of Oscillatory Loads on a Circular Cylinder”, MSc thesis, Technical University of Denmark, 2020 ([link](https://findit.dtu.dk/en/catalog/2599206775)).
