@@ -11,7 +11,7 @@ redirect_from:
 
 PhD courses
 ====
-* JCSS - Advanced course on Systems Risk Modeling and Analysis in Engineering Decision Making (2020 postponed to 2021)
+* JCSS - Advanced course on Systems Risk Modeling and Analysis in Engineering Decision Making (2020 postponed)
   * Responsibilities: Lecturer for 10% of the course. Shared responsibilities in course planning, defining curriculum, preparing lectures, exercises, delivering lectures and evaluation of reports.  
 
 
