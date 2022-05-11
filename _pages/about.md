@@ -37,9 +37,8 @@ This project is undertaken jointly by TOTAL E&P Denmark, several departments at 
 
 **Selected, completed projects**
 
-* *Structural health management for offshore wind turbine farms (knowledge transfer project for Energy Cluster Denmark)*, LIC Engineering, Vattenfall Vindkraft, and MATRISK Gmbh, and Aalborg University, 2021. 
+* *Structural health management for offshore wind turbine farms (knowledge transfer project for Energy Cluster Denmark)*, LIC Engineering, Vattenfall Vindkraft, MATRISK Gmbh, and Aalborg University, 2021. 
 
 * *Information-consistent systems modeling and analysis - with applications in offshore engineering*, PhD thesis, Aalborg University, 2021.
 
 * *Vibration-based identification of mass changes using statistical learning theory*, MSc thesis, Aarhus University, 2016.
-
