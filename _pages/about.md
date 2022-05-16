@@ -33,7 +33,7 @@ Verification through Accelerated testing Loading to Improved wave energy Designs
 This project is undertaken jointly by TOTAL E&P Denmark, several departments at DTU, i.e., Civil Engineering, Mechanical Engineering, Wind Energy, and AAU Build. The purpose of the project is to provide insight on the fatigue performance of modern materials, welds, and structures for offshore applications and, through model development and a general reduction of model uncertainties, to enable more reliable and cost-efficient fatigue design, maintenance, and repair.
 
 * *STROWIN*: 
-... (STROWIN) is a joint project between LIC Engineering, MATRISK Gmbh, and AAU Build. ...
+Reliability-based structural health monitoring in offshore wind (STROWIN) is a joint project between LIC Engineering, MATRISK Gmbh, and AAU Build. The aim of the project is to make offshore wind-energy production more reliable, sustainable and cost-effective through the use of four key technologies, namely, risk-based inspection planning, building interface modelling, structural health monitoring and digital twins. This will enable (i) a reduction of operational risks by reducing the cost of inspections, (ii) decision support at end of the Life, which facilitates life-time extensions, and (iii) future design improvements based on feedback from the developed software tool (end product).
 
 **Selected, completed projects**
 
