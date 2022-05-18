@@ -68,7 +68,7 @@ Skills
 
 Accomplishments
 ====
-* IBM Data Science Professional Certificate (2022)
+* IBM Data Science Professional Certificate (2022; [link](https://www.credly.com/org/ibm/badge/data-science-professional-certificate-v2))
 	* Offered by IBM through Coursera
 * Training Course on Bayesian Networks (2017) 
 	* HUGIN EXPERT A/S, Aalborg, Denmark
