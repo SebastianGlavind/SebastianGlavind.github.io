@@ -42,7 +42,7 @@ Education
   * Thesis title: "Information-consistent systems modeling and analysis - with applications in offshore engineering"
   * Department of the Built Environment, Aalborg University, Denmark
 * Master of Science (MSc; 2016)
-  * Program: Structural analyses and monitoring of structures. GPA: 12/12  
+  * Program: Structural analyses and monitoring of structures. GPA: 12/12 ([list of courses](https://github.com/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.md)) 
   * Department of Civil and Architectural Engineering, Aarhus University, Denmark
 * Bachelor of Science (BSc; 2012) 
   * Program: Structural design and analysis. GPA: 11.5/12 
