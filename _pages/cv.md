@@ -68,8 +68,10 @@ Skills
 
 Accomplishments
 ====
-* IBM Data Science Professional Certificate (2022; [link1](https://www.credly.com/badges/132f77ec-da39-4b2f-bcba-71351c1252af/public_url), [link2](https://www.credly.com/badges/e083881c-fa68-4228-b83a-e7f9bafb8d1f/public_url))
+* IBM Data Science Professional Certificate (2022; [link](https://www.credly.com/badges/e083881c-fa68-4228-b83a-e7f9bafb8d1f/public_url))
 	* Offered by IBM through Coursera
+* IBM Data Science Foundations Specialization (2022; [link](https://www.credly.com/badges/2c9e548e-0d5e-4ec4-8504-51d1ced03b14/public_url))
+	* Offered by IBM through Coursera 
 * Gaussian Process Summer School (GPSS; 2021, 2020) 
 	* Organized by the University of Sheffield, England
 * Training Course on Bayesian Networks (2017) 
