@@ -40,12 +40,12 @@ Education
 ====
 * Doctor of Philosophy (PhD; 2021) 
   * Thesis title: "Information-consistent systems modeling and analysis - with applications in offshore engineering"
-  * Department of the Built Environment, Aalborg University, Denmark
+  * Department of the Built Environment, Aalborg University, Denmark ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
 * Master of Science (MSc; 2016)
-  * Program: Structural analyses and monitoring of structures. GPA: 12/12 ([list of courses](https://github.com/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.md)) 
+  * Program: Structural analyses and monitoring of structures. GPA: 12/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb)) 
   * Department of Civil and Architectural Engineering, Aarhus University, Denmark
 * Bachelor of Science (BSc; 2012) 
-  * Program: Structural design and analysis. GPA: 11.5/12 
+  * Program: Structural design and analysis. GPA: 11.5/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
   * Aarhus School of Engineering, Aarhus University, Denmark
 
 Awards
@@ -77,7 +77,7 @@ Accomplishments
 * Training Course on Bayesian Networks (2017) 
 	* HUGIN EXPERT A/S, Aalborg, Denmark
 * Bachelor of Science in Economics and Management (First year, 2008)
-	* Department of Economics and Business, Aarhus University, Denmark
+	* Department of Economics and Business, Aarhus University, Denmark ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
 
 Publications
 ====
