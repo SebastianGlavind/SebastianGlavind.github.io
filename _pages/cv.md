@@ -11,30 +11,14 @@ redirect_from:
 
 Work experience
 ====
-* Apr 2021 -- Now
-	* Role: Postdoctoral researcher, Research associate
-	* Employer: Aalborg University, Denmark ([link](https://www.en.build.aau.dk/research/cecm/))
-* Dec 2019 -- Now
-	* Role: Consultant
-	* Employer: NORTH consulting (CVR 14294481; [link](https://north-consulting.dk/))
-* Sep 2016 -- Dec 2017
-	* Role: Research and Teaching Assistant 
-	* Employer: Technical University of Denmark
-* Jan 2014 -- Dec 2014
-	* Role: Coastal Engineer (part time)
-	* Employer: NIRAS A/S, Aarhus, Denmark
-* Jan 2013 -- Jun 2016
-	* Role: Guest Lecturer (part time)
-	* Employer: Aarhus University
-* Jan 2013 -- Dec 2013
-	* Role: Geotechnical Engineer (part time)
-	* Employer: COWI A/S, Aarhus, Denmark
-* Jan 2012 -- Dec 2012
-	* Role: Geotechnical Engineer
-	* Employer: COWI A/S, Aarhus, Denmark
-* Aug 2010 -- Dec 2010
-	* Role: Geotechnical and Structural Engineer (internship)
-	* Employer: Per Aarsleff A/S, Aarhus, Denmark
+* Apr 2021 -- Now &nbsp Postdoctoral researcher, Research associate, Aalborg University, Denmark ([link](https://www.en.build.aau.dk/research/cecm/))
+* Dec 2019 -- Now &nbsp Consultant, NORTH consulting (CVR 14294481; [link](https://north-consulting.dk/))
+* Sep 2016 -- Dec 2017 &nbsp Research and Teaching Assistant, Technical University of Denmark
+* Jan 2014 -- Dec 2014 &nbsp Coastal Engineer (part time), NIRAS A/S, Aarhus, Denmark
+* Jan 2013 -- Jun 2016 &nbsp Guest Lecturer (part time), Aarhus University, Denmark
+* Jan 2013 -- Dec 2013 &nbsp Geotechnical Engineer (part time), COWI A/S, Aarhus, Denmark
+* Jan 2012 -- Dec 2012 &nbsp Geotechnical Engineer, COWI A/S, Aarhus, Denmark
+* Aug 2010 -- Dec 2010 &nbsp Geotechnical and Structural Engineer (internship), Per Aarsleff A/S, Aarhus, Denmark
 
 Education
 ====
