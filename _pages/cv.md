@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ====
-* Apr 2021 -- Now &nbsp; &emsp; Postdoctoral researcher, Research associate, Aalborg University, Denmark ([link](https://www.en.build.aau.dk/research/cecm/))
+* Apr 2021 -- Now &nbsp; Postdoctoral researcher, Research associate, Aalborg University, Denmark ([link](https://www.en.build.aau.dk/research/cecm/))
 * Dec 2019 -- Now &nbsp; Consultant, NORTH consulting (CVR 14294481; [link](https://north-consulting.dk/))
 * Sep 2016 -- Dec 2017 &nbsp; Research and Teaching Assistant, Technical University of Denmark
 * Jan 2014 -- Dec 2014 &nbsp; Coastal Engineer (part time), NIRAS A/S, Aarhus, Denmark
@@ -52,8 +52,8 @@ Skills
 
 Accomplishments
 ====
-* IBM Data Science Professional Certificate (2022; [link](https://www.credly.com/badges/e083881c-fa68-4228-b83a-e7f9bafb8d1f/public_url)), IBM through Coursera
-* IBM Data Science Foundations Specialization (2022; [link](https://www.credly.com/badges/2c9e548e-0d5e-4ec4-8504-51d1ced03b14/public_url)), IBM through Coursera 
+* IBM Data Science Professional Certificate (2022), IBM through Coursera ([link](https://www.credly.com/badges/e083881c-fa68-4228-b83a-e7f9bafb8d1f/public_url))
+* IBM Data Science Foundations Specialization (2022), IBM through Coursera ([link](https://www.credly.com/badges/2c9e548e-0d5e-4ec4-8504-51d1ced03b14/public_url)) 
 * Gaussian Process Summer School (GPSS; 2021, 2020), organized by the University of Sheffield, England
 * Training Course on Bayesian Networks (2017), HUGIN EXPERT A/S, Aalborg, Denmark
 * Bachelor of Science in Economics and Management (First year, 2008), Department of Economics and Business, Aarhus University, Denmark ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
