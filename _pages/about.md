@@ -21,10 +21,10 @@ Sebastian is and have been actively involved in a wide range of research project
 **Ongoing projects** 
 
 * *InnoSHM*: 
-Innovative Structural Health Monitoring and risk-informed structural integrity management (InnoSHM) is a joint project between TOTAL E&P Denmark, RAMBØLL Denmark, Brincker Monitoring, DTU Civil Engineering, and AAU Build. The project focuses on devising a structural health monitoring campaign for offshore structures, where special attention is given to damage feature design, e.g., identification of potential indicators for different failures in offshore structures, feature selection, and data fusion and normalization.         
+Innovative Structural Health Monitoring and risk-informed structural integrity management (InnoSHM) is a joint project between TotalEnergies Denmark, RAMBØLL Denmark, Brincker Monitoring, DTU Civil Engineering, and AAU Build. The project focuses on devising a structural health monitoring campaign for offshore structures, where special attention is given to damage feature design, e.g., identification of potential indicators for different failures in offshore structures, feature selection, and data fusion and normalization.         
 
 * *Corrosion and fatigue of offshore structures*: 
-This project is undertaken jointly by TOTAL E&P Denmark, several departments at DTU, i.e., Civil Engineering, Mechanical Engineering, Wind Energy, and AAU Build. The purpose of the project is to provide insight on the fatigue performance of modern materials, welds, and structures for offshore applications and, through model development and a general reduction of model uncertainties, to enable more reliable and cost-efficient fatigue design, maintenance, and repair.
+This project is undertaken jointly by TotalEnergies Denmark, several departments at DTU, i.e., Civil Engineering, Mechanical Engineering, Wind Energy, and AAU Build. The purpose of the project is to provide insight on the fatigue performance of modern materials, welds, and structures for offshore applications and, through model development and a general reduction of model uncertainties, to enable more reliable and cost-efficient fatigue design, maintenance, and repair.
 
 * *STROWIN*: 
 Reliability-based structural health monitoring in offshore wind (STROWIN) is a joint project between LIC Engineering, MATRISK Gmbh, and AAU Build. The aim of the project is to make offshore wind-energy production more reliable, sustainable and cost-effective through the use of four key technologies, namely, risk-based inspection planning, building interface modelling, structural health monitoring and digital twins. This will enable (i) a reduction of operational risks by reducing the cost of inspections, (ii) decision support at end of the Life, which facilitates life-time extensions, and (iii) future design improvements based on feedback from the developed software tool (end product).
@@ -42,3 +42,9 @@ Verification through Accelerated testing Loading to Improved wave energy Designs
 * *Information-consistent systems modeling and analysis - with applications in offshore engineering*, PhD thesis, Aalborg University, 2021.
 
 * *Vibration-based identification of mass changes using statistical learning theory*, MSc thesis, Aarhus University, 2016.
+
+Industrial projects
+====
+
+* *CodeWrapper*: 
+This project is undertaken by TotalEnergies Denmark ...
