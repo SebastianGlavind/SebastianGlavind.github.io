@@ -53,8 +53,8 @@ Skills
 Accomplishments
 ====
 * Machine Learning Explainability Course (2022), Kaggle
-* IBM Data Science Professional Certificate (2022), IBM through Coursera ([link](https://www.credly.com/badges/e083881c-fa68-4228-b83a-e7f9bafb8d1f/public_url))
-* IBM Data Science Foundations Specialization (2022), IBM through Coursera ([link](https://www.credly.com/badges/2c9e548e-0d5e-4ec4-8504-51d1ced03b14/public_url)) 
+* IBM Data Science Professional Certificate (2022), IBM through Coursera ([certificate](https://www.credly.com/badges/e083881c-fa68-4228-b83a-e7f9bafb8d1f/public_url))
+* IBM Data Science Foundations Specialization (2022), IBM through Coursera ([certificate](https://www.credly.com/badges/2c9e548e-0d5e-4ec4-8504-51d1ced03b14/public_url)) 
 * Gaussian Process Summer School (GPSS; 2021, 2020), University of Sheffield, England
 * Training Course on Bayesian Networks (2017), HUGIN EXPERT A/S, Aalborg, Denmark
 * Bachelor of Science in Economics and Management (First year, 2008), Department of Economics and Business, Aarhus University, Denmark ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
