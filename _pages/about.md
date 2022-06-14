@@ -42,9 +42,3 @@ Verification through Accelerated testing Loading to Improved wave energy Designs
 * *Information-consistent systems modeling and analysis - with applications in offshore engineering*, PhD thesis, Aalborg University, 2021.
 
 * *Vibration-based identification of mass changes using statistical learning theory*, MSc thesis, Aarhus University, 2016.
-
-Industrial projects
-====
-
-* *CodeWrapper*: 
-This project is undertaken by TotalEnergies Denmark ...
