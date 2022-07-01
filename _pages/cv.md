@@ -22,15 +22,12 @@ Work experience
 
 Education
 ====
-* Doctor of Philosophy (PhD; 2021) 
-  * Thesis title: "Information-consistent systems modeling and analysis - with applications in offshore engineering"
-  * Department of the Built Environment, Aalborg University, Denmark ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
-* Master of Science (MSc; 2016)
+* Doctor of Philosophy (PhD; 2021) in Engineering, Department of the Built Environment, Aalborg University, Denmark 
+  * Thesis title: "Information-consistent systems modeling and analysis - with applications in offshore engineering" ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
+* Master of Science (MSc; 2016) in Civil and Architectural Engineering, Department of Civil and Architectural Engineering, Aarhus University, Denmark
   * Program: Structural analyses and monitoring of structures. GPA: 12/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb)) 
-  * Department of Civil and Architectural Engineering, Aarhus University, Denmark
-* Bachelor of Science (BSc; 2012) 
+* Bachelor of Science (BSc; 2012) in Civil and Structural Enginnering, Aarhus School of Engineering, Aarhus University, Denmark
   * Program: Structural design and analysis. GPA: 11.5/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
-  * Aarhus School of Engineering, Aarhus University, Denmark
 
 Awards
 ====
