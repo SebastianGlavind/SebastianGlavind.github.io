@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Experience
 ====
 * Apr 2021 -- Now &nbsp; Postdoctoral researcher, Research associate, Aalborg University, Denmark ([link](https://www.en.build.aau.dk/research/cecm/))
 * Dec 2019 -- Now &nbsp; Consultant, NORTH consulting (CVR 14294481; [link](https://north-consulting.dk/))
@@ -44,7 +44,7 @@ Awards
 * 2019 best paper award of the journal Civil Engineering and Environmental Systems ([link](https://think.taylorandfrancis.com/journal-prize-civil-engineering-and-environmental-systems-best-paper-award/))
 * Session award of Network and Data Security at the 4th International Conference on System Reliability and Safety (ICSRS2019; [link](http://www.icsrs.org/icsrs19.html))
 
-Accomplishments
+Achievements
 ====
 * Machine Learning Explainability Course (2022), Kaggle
 * IBM Data Science Professional Certificate (2022), IBM through Coursera ([certificate](https://www.credly.com/badges/e083881c-fa68-4228-b83a-e7f9bafb8d1f/public_url))
