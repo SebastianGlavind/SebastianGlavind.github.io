@@ -26,11 +26,6 @@ Education
 * Master of Science (MSc; 2016) in Civil and Architectural Engineering, Aarhus University, Denmark. Program: Structural analyses and monitoring of structures. GPA: 12/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb)) 
 * Bachelor of Science (BSc; 2012) in Civil and Structural Enginnering, Aarhus University, Denmark. Program: Structural design and analysis. GPA: 11.5/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
 
-Awards
-====
-* 2019 best paper award of the journal Civil Engineering and Environmental Systems ([link](https://think.taylorandfrancis.com/journal-prize-civil-engineering-and-environmental-systems-best-paper-award/))
-* Session award of Network and Data Security at the 4th International Conference on System Reliability and Safety (ICSRS2019; [link](http://www.icsrs.org/icsrs19.html))
-
 Skills
 ====
 * Languages:
@@ -43,6 +38,11 @@ Skills
   TensorFlow, Torch, SciPy, Scikit, OpenTURNS, Stan, GPy, CARRoT, bnlearn, etc.
 * Text processing: 
   MS Office, LaTeX
+
+Awards
+====
+* 2019 best paper award of the journal Civil Engineering and Environmental Systems ([link](https://think.taylorandfrancis.com/journal-prize-civil-engineering-and-environmental-systems-best-paper-award/))
+* Session award of Network and Data Security at the 4th International Conference on System Reliability and Safety (ICSRS2019; [link](http://www.icsrs.org/icsrs19.html))
 
 Accomplishments
 ====
