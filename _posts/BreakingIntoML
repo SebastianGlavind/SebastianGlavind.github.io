@@ -1,0 +1,21 @@
+---
+title: 'How to break into machine learning'
+date: 2022-10-01
+permalink: /posts/2022/10/blog-post-1/
+tags:
+  - Machine learning 
+  - Learning resources
+---
+
+This is a sample blog post on breaking into ML - content is comming soon!
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
+
+This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`.
