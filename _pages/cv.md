@@ -46,6 +46,7 @@ Awards
 
 Achievements
 ====
+* Machine Learning Specialization (2022), Stanford and DeepLearning.AI through Coursera ([certificate](https://coursera.org/share/d026e453d4156fa8db4b49c683968191))
 * Mathematics for Machine Learning Specialization (2022), Imperial College London through Coursera ([certificate](https://coursera.org/share/d026e453d4156fa8db4b49c683968191))
 * Machine Learning Explainability Course (2022), Kaggle
 * IBM Data Science Professional Certificate (2022), IBM through Coursera ([certificate](https://www.credly.com/badges/e083881c-fa68-4228-b83a-e7f9bafb8d1f/public_url))
