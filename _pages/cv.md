@@ -46,6 +46,7 @@ Awards
 
 Achievements
 ====
+* Fundamentals of Reinforcement Learning Course (2022), University of Alberta & Alberta Machine Intelligence Institute through Coursera ([certificate](https://coursera.org/share/41437f45d302c0fd0c2e6976f6ba6e35))
 * Machine Learning Specialization (2022), Stanford University and DeepLearning.AI through Coursera ([certificate](https://coursera.org/share/221d4e8d0b2075e28d11c61fdeafb49e))
 * Mathematics for Machine Learning Specialization (2022), Imperial College London through Coursera ([certificate](https://coursera.org/share/d026e453d4156fa8db4b49c683968191))
 * Machine Learning Explainability Course (2022), Kaggle
