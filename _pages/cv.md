@@ -33,7 +33,7 @@ Skills
 * Operating systems:
   MS Windows, macOS, Linux 
 * Programming languages:
-  Python, R, Julia, Matlab, Octave, SQL
+  Python, R, Julia, Matlab, Octave, SQL, Git
 * Programming libraries:
   TensorFlow, Torch, SciPy, Scikit, OpenTURNS, Stan, GPy, CARRoT, bnlearn, etc.
 * Text processing: 
