@@ -24,7 +24,7 @@ Education
 ====
 * Doctor of Philosophy (PhD; 2021) in Engineering, Aalborg University, Denmark. Thesis title: "Information-consistent systems modeling and analysis - with applications in offshore engineering" ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
 * Master of Science (MSc; 2016) in Civil and Architectural Engineering, Aarhus University, Denmark. Program: Structural analyses and monitoring of structures. GPA: 12/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb)) 
-* Bachelor of Science (BSc; 2012) in Civil and Structural Enginnering, Aarhus University, Denmark. Program: Structural design and analysis. GPA: 11.5/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
+* Bachelor of Science (BSc; 2012) in Civil and Structural Engineering, Aarhus University, Denmark. Program: Structural design and analysis. GPA: 11.5/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
 
 Skills
 ====
