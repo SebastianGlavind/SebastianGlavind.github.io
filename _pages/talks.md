@@ -12,11 +12,10 @@ redirect_from:
 Upcoming talks
 ====
 
-* “On big data analysis for damage detection”, the 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021-22), Virtual event, 2022.
-
 Selected, recent talks
 ====
 
+* “On big data analysis for damage detection”, the 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021-22), Virtual event, 2022.
 * "Information-consistent systems modeling and analysis - with applications in offshore engineering", PhD defense on June 25, 2021.
 * "Context-specific model selection - A principal example", Joint Committee on Structural Safety (JCSS), Virtual event on June 2, 2021.
 * "JCSS reliability toolbox - Jupyter notebook format", Joint Committee on Structural Safety (JCSS), Virtual event on June 2, 2021.
