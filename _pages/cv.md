@@ -51,8 +51,8 @@ Achievements
 * Machine Learning Specialization (2022), Stanford University and DeepLearning.AI through Coursera ([certificate](https://coursera.org/share/221d4e8d0b2075e28d11c61fdeafb49e))
 * Mathematics for Machine Learning Specialization (2022), Imperial College London through Coursera ([certificate](https://coursera.org/share/d026e453d4156fa8db4b49c683968191))
 * Machine Learning Explainability Course (2022), Kaggle
-* IBM Data Science Professional Certificate (2022), IBM through Coursera ([certificate](https://www.credly.com/badges/e083881c-fa68-4228-b83a-e7f9bafb8d1f/public_url))
-* IBM Data Science Fundamentals with Python and SQL Specialization (2022), IBM through Coursera ([certificate](https://www.credly.com/badges/2c9e548e-0d5e-4ec4-8504-51d1ced03b14/public_url)) 
+* IBM Data Science Professional Certificate (2022), IBM through Coursera ([certificate](https://coursera.org/share/0f09275b9b110a0e20696db5547cf957))
+* IBM Data Science Fundamentals with Python and SQL Specialization (2022), IBM through Coursera ([certificate](https://coursera.org/share/c9b544bbcf8a7af312a6d9c32d23898c)) 
 * Gaussian Process Summer School (GPSS; 2021, 2020), University of Sheffield, England
 * Training Course on Bayesian Networks (2017), HUGIN EXPERT A/S, Aalborg, Denmark
 * Bachelor of Science in Economics and Management (First year, 2008), Department of Economics and Business, Aarhus University, Denmark ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
