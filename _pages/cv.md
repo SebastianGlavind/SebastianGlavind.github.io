@@ -46,7 +46,7 @@ Skills
 
 Achievements
 ====
-* Version control with Git (2024), Udacity.
+* Version Control with Git Course (2024), Udacity.
 * Statistical Modeling for Data Science Applications Specialization (2023), University of Colorado Boulder through Coursera ([certificate](https://coursera.org/share/9f3b3aea6fe520a672648db688cf04c1))
 * Fundamentals of Reinforcement Learning Course (2022), University of Alberta & Alberta Machine Intelligence Institute through Coursera ([certificate](https://coursera.org/share/41437f45d302c0fd0c2e6976f6ba6e35))
 * Machine Learning Specialization (2022), Stanford University and DeepLearning.AI through Coursera ([certificate](https://coursera.org/share/221d4e8d0b2075e28d11c61fdeafb49e))
