@@ -26,6 +26,11 @@ Education
 * Master of Science (MSc; 2016) in Civil and Architectural Engineering, Aarhus University, Denmark. Program: Structural analyses and monitoring of structures. GPA: 12/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb)) 
 * Bachelor of Science (BSc; 2012) in Civil and Structural Engineering, Aarhus University, Denmark. Program: Structural design and analysis. GPA: 11.5/12 ([list of courses](https://nbviewer.jupyter.org/github/SebastianGlavind/SebastianGlavind.github.io/blob/master/files/ListOfCourses_PhDMScBSc.ipynb))
 
+Awards
+====
+* 2019 Best paper award of the journal Civil Engineering and Environmental Systems ([link](https://think.taylorandfrancis.com/journal-prize-civil-engineering-and-environmental-systems-best-paper-award/))
+* 2019 Session award of Network and Data Security at the 4th International Conference on System Reliability and Safety (ICSRS2019; [link](http://www.icsrs.org/icsrs19.html))
+
 Skills
 ====
 * Languages:
@@ -39,13 +44,9 @@ Skills
 * Text processing: 
   MS Office, LaTeX
 
-Awards
-====
-* 2019 Best paper award of the journal Civil Engineering and Environmental Systems ([link](https://think.taylorandfrancis.com/journal-prize-civil-engineering-and-environmental-systems-best-paper-award/))
-* 2019 Session award of Network and Data Security at the 4th International Conference on System Reliability and Safety (ICSRS2019; [link](http://www.icsrs.org/icsrs19.html))
-
 Achievements
 ====
+* Version control with Git (2024), Udacity.
 * Statistical Modeling for Data Science Applications Specialization (2023), University of Colorado Boulder through Coursera ([certificate](https://coursera.org/share/9f3b3aea6fe520a672648db688cf04c1))
 * Fundamentals of Reinforcement Learning Course (2022), University of Alberta & Alberta Machine Intelligence Institute through Coursera ([certificate](https://coursera.org/share/41437f45d302c0fd0c2e6976f6ba6e35))
 * Machine Learning Specialization (2022), Stanford University and DeepLearning.AI through Coursera ([certificate](https://coursera.org/share/221d4e8d0b2075e28d11c61fdeafb49e))
