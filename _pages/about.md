@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ACADEMIC PROFILE"
+title: "PROFESSIONAL PROFILE"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,15 +10,13 @@ redirect_from:
 
 Short biography
 ====
-My name is Sebastian Tølbøll Glavind, and I am currently employed as a postdoctoral researcher at Aalborg University and as a consultant at NORTH consulting (CVR 14294481). I hold a PhD degree in Engineering from Aalborg University, where I developed and analyzed probabilistic machine learning models for decision support; a MSc degree in Civil and Architectural Engineering from Aarhus University with specializations in structural analysis and monitoring of structures; and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. I have practiced engineering at NIRAS, COWI, and Per Aarsleff, where I was mainly involved in design and assessments of geotechnical support structures and marine structures.
+My name is Sebastian Tølbøll Glavind, and I am currently employed as a Senior Technical Specialist in O&M and Digitalization at Evida CO2. Evida CO2 is on a mission to become a key player in the emerging CO2 market, which brings with it interesting new changes regarding how to design, operate, and maintain infrastructures for carbon-capture-storage (CCS) in today’s digital era. This is be my primary focus area at Evida CO2, and it is already taking off.
 
-My research interests evolve around the probabilistic modeling and analysis of complex systems, as well as the integration of the modeling efforts into the overarching decision context, which the modeling aims to support. In this regard, I mainly work with Bayesian approaches in statistics, machine learning, and decision analysis.  
+I have previously worked as a postdoctoral researcher at Aalborg University and as a consultant at NORTH Consulting (CVR 14294481). Moreover, I have practiced engineering at NIRAS, COWI, and Per Aarsleff. I hold a PhD degree in Engineering from Aalborg University, where I developed and analyzed probabilistic machine learning models for decision support; a MSc degree in Civil and Architectural Engineering from Aarhus University with specializations in structural analysis and monitoring of structures; and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. 
 
 Research projects
 ====
-I am and have been actively involved in a wide range of research projects, some of which are listed below with brief descriptions.
-
-**Ongoing projects** 
+I have been actively involved in a wide range of research projects, some of which are listed below with brief descriptions.
 
 * *InnoSHM*: 
 Innovative Structural Health Monitoring and risk-informed structural integrity management (InnoSHM) is a joint project between TotalEnergies Denmark, RAMBØLL Denmark, Brincker Monitoring, DTU Civil Engineering, and AAU Build. The project focuses on devising a structural health monitoring campaign for offshore structures, where special attention is given to damage feature design, e.g., identification of potential indicators for different failures in offshore structures, feature selection, and data fusion and normalization.         
@@ -31,8 +29,6 @@ This project is undertaken jointly by TotalEnergies Denmark, several departments
 
 * *VALID*: 
 Verification through Accelerated testing Loading to Improved wave energy Designs (VALID) is a joint project between, among others, WAVEPISTON, AQUATERA, and CORPOWER OCEAN AB, Technical University of Delft, and AAU Build. The main objective of the project is to de-risk the wave energy converter (WEC) design process, in terms of reliability and survivability, through development and validation of a new platform (and associated techniques) for accelerated hybrid testing of critical components and subsystems that can be used across the entire wave energy sector.  
-
-**Selected, completed projects**
 
 * *Discrepancy modeling*: 
 This project is undertaken jointly by Department of Mechanical Engineering, Technical University of Denmark (DTU) and Department of the Built Environment (Build), Aalborg University (AAU), and it has until now mainly focused on discrepancy modeling related to Morrison’s equation based on measurements of forces on a cylindrical body under different turbulence intensities.
