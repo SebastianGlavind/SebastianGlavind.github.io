@@ -16,6 +16,8 @@ I have previously worked as a postdoctoral researcher at Aalborg University and 
 
 Research projects
 ====
+My research interests evolve around the probabilistic modeling and analysis of complex systems, as well as the integration of the modeling efforts into the overarching decision context, which the modeling aims to support. In this regard, I mainly work with Bayesian approaches in statistics, machine learning, and decision analysis.  
+
 I have been actively involved in a wide range of research projects, some of which are listed below with brief descriptions.
 
 * *InnoSHM*: 
