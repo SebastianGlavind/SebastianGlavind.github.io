@@ -42,6 +42,8 @@ Skills
   Python, R, Julia, Matlab, Octave, SQL, Git
 * Programming libraries:
   TensorFlow, Torch, SciPy, Scikit, OpenTURNS, Stan, GPy, CARRoT, bnlearn, etc.
+* Project management:
+  DevOps, Trello
 * Text processing: 
   MS Office, LaTeX
 
