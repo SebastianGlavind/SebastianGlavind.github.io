@@ -10,7 +10,7 @@ redirect_from:
 
 Short biography
 ====
-My name is Sebastian Tølbøll Glavind, and I am currently employed as a Senior Technical Specialist in O&M and Digitalization at Evida CO2. Evida CO2 is on a mission to become a key player in the emerging CO2 market, which brings with it interesting new changes regarding how to design, operate, and maintain infrastructures for carbon-capture-storage (CCS) in today’s digital era. This is my primary focus area at Evida CO2, and it is already taking off.
+My name is Sebastian Tølbøll Glavind, and I am currently employed as Technical Lead in Digitalization and O&M at Evida CO2. Evida CO2 is on a mission to become a key player in the emerging CO2 market, which brings with it interesting new changes regarding how to design, operate, and maintain infrastructures for carbon-capture-storage (CCS) in today’s digital era. This is my primary focus area at Evida CO2, and it is already taking off.
 
 I have previously worked as a postdoctoral researcher at Aalborg University and as a consultant at NORTH Consulting (CVR 14294481). Moreover, I have practiced engineering at NIRAS, COWI, and Per Aarsleff. I hold a PhD degree in Engineering from Aalborg University, where I developed and analyzed probabilistic machine learning models for decision support; a MSc degree in Civil and Architectural Engineering from Aarhus University with specializations in structural analysis and monitoring of structures; and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. 
 
