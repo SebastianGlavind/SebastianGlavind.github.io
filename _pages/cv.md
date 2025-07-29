@@ -20,7 +20,7 @@ Experience
 * Jan 2013 -- Jun 2016 &nbsp; Guest Lecturer (part time), Aarhus University, Denmark
 * Jan 2013 -- Dec 2013 &nbsp; Geotechnical Engineer (part time), COWI A/S, Aarhus, Denmark
 * Jan 2012 -- Dec 2012 &nbsp; Geotechnical Engineer, COWI A/S, Aarhus, Denmark
-* Aug 2010 -- Dec 2010 &nbsp; Geotechnical and Structural Engineer (internship), Per Aarsleff A/S, Aarhus, Denmark
+* Aug 2010 -- Dec 2010 &nbsp; Geo-Structural Engineer (internship), Per Aarsleff A/S, Aarhus, Denmark
 
 Education
 ====
