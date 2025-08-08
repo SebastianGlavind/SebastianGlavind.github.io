@@ -23,8 +23,6 @@ Papers under review/preprints
 </ol>
 {% endcomment %}
 
-* Sepulveda, J. G., Glavind, S. T., and Faber, M. H., "Enhancements and Benchmarking of MCMC Algorithms for Subset Simulations in Structural Reliability", submitted to Elsevier, 2024.
-
 * Nielsen, L., Glavind, S. T., and Faber, M. H., "On Course for Calamity? – on Knowledge and Memory in Capacity Building for Risk Governance", invited to Taylor & Francis special issue, 2024.
 
 Journal papers
@@ -38,6 +36,8 @@ Journal papers
 {% endfor %}
 </ol>
 {% endcomment %}
+
+* Sepulveda, J. G., Glavind, S. T., and Faber, M. H., "Enhancements and Benchmarking of MCMC Algorithms for Subset Simulations in Structural Reliability", Probabilistic Engineering Mechanics, Volume 81, pp. 103809, 2025 ([link](https://www.sciencedirect.com/science/article/pii/S0266892025000815)).
 
 * Sepulveda, J. G., Glavind, S. T., and Faber, M. H., "Seismic reliability analysis using Subset Simulation enhanced with an explorative adaptive conditional sampling algorithm", Probabilistic Engineering Mechanics, vol. 78, pp. 103690, 2024 ([link](https://www.sciencedirect.com/science/article/pii/S0266892024001127)).
 
