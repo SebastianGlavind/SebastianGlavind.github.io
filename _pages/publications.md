@@ -37,7 +37,7 @@ Journal papers
 </ol>
 {% endcomment %}
 
-* Sepulveda, J. G., Glavind, S. T., and Faber, M. H., "Enhancements and Benchmarking of MCMC Algorithms for Subset Simulations in Structural Reliability", Probabilistic Engineering Mechanics, Volume 81, pp. 103809, 2025 ([link](https://www.sciencedirect.com/science/article/pii/S0266892025000815)).
+* Sepulveda, J. G., Glavind, S. T., and Faber, M. H., "Enhancements and Benchmarking of MCMC Algorithms for Subset Simulations in Structural Reliability", Probabilistic Engineering Mechanics, vol. 81, pp. 103809, 2025 ([link](https://www.sciencedirect.com/science/article/pii/S0266892025000815)).
 
 * Sepulveda, J. G., Glavind, S. T., and Faber, M. H., "Seismic reliability analysis using Subset Simulation enhanced with an explorative adaptive conditional sampling algorithm", Probabilistic Engineering Mechanics, vol. 78, pp. 103690, 2024 ([link](https://www.sciencedirect.com/science/article/pii/S0266892024001127)).
 
