@@ -11,7 +11,7 @@ redirect_from:
 
 Experience
 ====
-* Jun 2025 -- Now &nbsp; Technical Lead in Digitalization, Operation & Maintenance, and Automation & Control, Evida CO2 A/S, Denmark ([link](https://evida.dk/))
+* Jun 2025 -- Now &nbsp; Technical Lead in Digitalization, Innovation, Operation & Maintenance, and Automation & Control, Evida CO2 A/S, Denmark ([link](https://evida.dk/))
 * Apr 2024 -- May 2025 &nbsp; Senior Technical Specialist in Digitalization and Operation & Maintenance, Evida CO2 A/S, Denmark
 * Apr 2021 -- Mar 2024 &nbsp; Postdoctoral researcher, Research associate, Aalborg University, Denmark
 * Dec 2019 -- Mar 2024 &nbsp; Consultant, NORTH consulting (CVR 14294481)
