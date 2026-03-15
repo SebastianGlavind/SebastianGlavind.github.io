@@ -48,8 +48,9 @@ Skills
 * Text processing: 
   MS Office, LaTeX
 
-Achievements
+Certifications
 ====
+* Introduktion til ledelse (2025), Mannaz ([certificate](https://app.diplomasafe.com/da-DK/certificates/d9132a102b68412df358ea6f35af6169c973e51a1))
 * Version Control with Git Course (2024), Udacity
 * Statistical Modeling for Data Science Applications Specialization (2023), University of Colorado Boulder through Coursera ([certificate](https://coursera.org/share/9f3b3aea6fe520a672648db688cf04c1))
 * Fundamentals of Reinforcement Learning Course (2022), University of Alberta & Alberta Machine Intelligence Institute through Coursera ([certificate](https://coursera.org/share/41437f45d302c0fd0c2e6976f6ba6e35))
