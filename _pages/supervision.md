@@ -11,7 +11,7 @@ redirect_from:
 
 PhD theses
 ====
-Sepulveda, J. G., "Advanced and Efficient Probabilistic Response Modeling and Analysis with Applications in Offshore Engineering", 2025&nbsp;([link](https://vbn.aau.dk/ws/portalfiles/portal/781250582/PHD_JGSA_ONLINE.pdf)).
+* Sepulveda, J. G., "Advanced and Efficient Probabilistic Response Modeling and Analysis with Applications in Offshore Engineering", 2025&nbsp;([link](https://vbn.aau.dk/ws/portalfiles/portal/781250582/PHD_JGSA_ONLINE.pdf)).
 
 Master theses
 ====
@@ -21,4 +21,4 @@ Master theses
 
 Gradiates
 ====
-Januchta, M., Graduate rotation at Evida CO2 focusing on data-driven damage frequency estimation for CO2 pipelines, and AACE uncertainty propagation in cost estimation, 2026.
+* Januchta, M., Graduate rotation at Evida CO2 focusing on data-driven damage frequency estimation for CO2 pipelines, and AACE uncertainty propagation in cost estimation, 2026.
