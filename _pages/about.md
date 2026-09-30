@@ -14,6 +14,12 @@ My name is Sebastian Tølbøll Glavind, and I am currently employed as Technical
 
 I have previously worked as a postdoctoral researcher at Aalborg University and as a consultant at NORTH Consulting (CVR 14294481). Moreover, I have practiced engineering at NIRAS, COWI, and Per Aarsleff. I hold a PhD degree in Engineering from Aalborg University, where I developed and analyzed probabilistic machine learning models for decision support; a MSc degree in Civil and Architectural Engineering from Aarhus University with specializations in structural analysis and monitoring of structures; and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. 
 
+Selected, past clients
+====
+* Danish Defence Intelligence Service, 2021-24.
+
+* TOTAL Energies, 2019-22.
+
 Past research projects
 ====
 My research interests evolve around the probabilistic modeling and analysis of complex systems, as well as the integration of the modeling efforts into the overarching decision context, which the modeling aims to support. In this regard, I mainly work with Bayesian approaches in statistics, machine learning, and decision analysis.  
