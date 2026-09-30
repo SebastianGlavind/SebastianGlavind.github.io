@@ -30,8 +30,8 @@ Education
 
 Awards
 ====
-* 2019 Best paper award of the journal Civil Engineering and Environmental Systems ([link](https://think.taylorandfrancis.com/journal-prize-civil-engineering-and-environmental-systems-best-paper-award/))
-* 2019 Session award of Network and Data Security at the 4th International Conference on System Reliability and Safety (ICSRS2019; [link](http://www.icsrs.org/icsrs19.html))
+* Best paper award of the journal of Civil Engineering and Environmental Systems (2019; [link](https://think.taylorandfrancis.com/journal-prize-civil-engineering-and-environmental-systems-best-paper-award/))
+* Session award of Network and Data Security at the 4th International Conference on System Reliability and Safety (ICSRS2019; [link](http://www.icsrs.org/icsrs19.html))
 
 Skills
 ====
