@@ -12,7 +12,7 @@ redirect_from:
 Upcoming talks
 ====
 
-Selected, recent talks
+Selected talks
 ====
 
 * “On big data analysis for damage detection”, the 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021-22), Virtual event, 2022.
