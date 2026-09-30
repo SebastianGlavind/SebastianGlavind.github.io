@@ -18,7 +18,7 @@ Selected, past clients
 ====
 * Danish Defence Intelligence Service, 2021-24.
 
-* TOTAL Energies, 2019-22.
+* TOTAL Energies, 2020-22.
 
 Past research projects
 ====
