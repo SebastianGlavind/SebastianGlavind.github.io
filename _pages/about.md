@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my professional homepage. I specialize in leading high-performing, agile teams within lean organizations to deliver complex technical projects. With a robust background in quantitative data analysis and risk modeling, I bring a unique, data-driven perspective to technical leadership, budget management, and strategic planning. Currently, I oversee external consultant teams, ensuring seamless integration between deep technical execution and overarching business objectives.
+Welcome to my professional homepage. My name is Sebastian Tølbøll Glavind and I specialize in leading high-performing, agile teams within lean organizations to deliver complex technical projects. With a robust background in quantitative data analysis and risk modeling, I bring a unique, data-driven perspective to technical leadership, budget management, and strategic planning. Currently, I oversee external consultant teams, ensuring seamless integration between deep technical execution and overarching business objectives.
 
 Short biography
 ====
-My name is Sebastian Tølbøll Glavind, and I am currently employed as Technical Lead in Digitalization, Innovation, Operation & Maintenance, and Automation & Control at Evida CO2. Evida CO2 is on a mission to become a key player in the emerging CO2 market, which brings with it interesting new changes regarding how to design, operate, and maintain infrastructures for carbon-capture-storage (CCS) in today’s digital era. This is my primary focus area at Evida CO2.
+I am currently employed as Technical Lead in Digitalization, Innovation, Operation & Maintenance, and Automation & Control at Evida CO2. Evida CO2 is on a mission to become a key player in the emerging CO2 market, which brings with it interesting new changes regarding how to design, operate, and maintain infrastructures for carbon-capture-storage (CCS) in today’s digital era. This is my primary focus area at Evida CO2.
 
 I have previously worked as a postdoctoral researcher at Aalborg University and as a consultant at NORTH Consulting (CVR 14294481). Moreover, I have practiced engineering at NIRAS, COWI, and Per Aarsleff. I hold a PhD degree in Engineering from Aalborg University, where I developed and analyzed probabilistic machine learning models for decision support; a MSc degree in Civil and Architectural Engineering from Aarhus University with specializations in structural analysis and monitoring of structures; and a BSc degree in Civil and Structural Engineering from Aarhus University with a specialization in structural analysis. 
 
