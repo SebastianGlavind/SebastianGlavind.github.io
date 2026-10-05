@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PROFESSIONAL PROFILE"
+title: "Driving Technical Innovation Through Agile Leadership"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
