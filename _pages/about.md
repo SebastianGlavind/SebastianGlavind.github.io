@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Driving Technical Innovation Through Agile Leadership"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
