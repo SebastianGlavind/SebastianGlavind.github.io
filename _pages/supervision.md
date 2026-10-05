@@ -23,8 +23,6 @@ Gradiates
 ====
 * Januchta, M., Graduate rotation at Evida CO2 focusing on data-driven damage frequency estimation for CO2 pipelines, and AACE uncertainty propagation in cost estimation, 2026.
 
-TEACHING
-
 PhD courses
 ====
 * JCSS - Advanced course on Systems Risk Modeling and Analysis in Engineering Decision Making (2020 postponed)
